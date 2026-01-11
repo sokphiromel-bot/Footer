@@ -48,7 +48,7 @@ body {
 
 .welcome-section {
     background-image: linear-gradient(rgba(255, 107, 107, 0.7), rgba(238, 90, 111, 0.7)),
-        url('../assets/fonts/imges/fruitveg.webp');
+        url('./fruitveg.webp');
     background-size: cover;
     background-position: center;
     background-attachment: fixed;
@@ -346,4 +346,5 @@ tr:hover{
     font-size: 1.4rem;
     text-decoration: none;
     transition: color 0.3s ease;
+
 }
